@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/asthma---primary.py
+inputModule3:
+  class: File
+  path: python/asthma-exercise---primary.py
+inputModule4:
+  class: File
+  path: python/asthma-induced---primary.py
+inputModule5:
+  class: File
+  path: python/asthma-resolved---primary.py
+inputModule6:
+  class: File
+  path: python/asthma-bronchitis---primary.py
+inputModule7:
+  class: File
+  path: python/extrinsic-asthma---primary.py
+inputModule8:
+  class: File
+  path: python/allergic-asthma---primary.py
+inputModule9:
+  class: File
+  path: python/asthma-fever---primary.py
+inputModule10:
+  class: File
+  path: python/asthma-attack---primary.py
+inputModule11:
+  class: File
+  path: python/intrinsic-asthma---primary.py
+inputModule12:
+  class: File
+  path: python/chronic-asthma---primary.py
+inputModule13:
+  class: File
+  path: python/asthma-history---primary.py
+inputModule14:
+  class: File
+  path: python/asthma---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
